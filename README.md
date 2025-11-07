@@ -3,18 +3,18 @@
 Código Fuente y Documentación
 Instrucciones de instalación
 
-Para ejecutar el programa, primero debes instalar las dependencias:
+Para ejecutar el programa, primero se tienen que instalar las dependencias:
 
 pip install -r requirements.txt
 
 Instrucciones para ejecutar
 
-Para ejecutar el programa, solo necesitas usar el siguiente comando:
+Para ejecutar el programa, solo se necesita usar el siguiente comando:
 
 python run.py
 
 
-El programa abrirá una interfaz gráfica donde podrás interactuar con la red de vuelos y ejecutar los algoritmos.
+El programa abrirá una interfaz gráfica donde se puede interactuar con la red de vuelos y ejecutar los algoritmos.
 
 Funcionamiento del Código
 1. Algoritmo Bellman-Ford
